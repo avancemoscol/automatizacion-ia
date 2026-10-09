@@ -1,0 +1,7 @@
+Papelería Andina S.A.S.
+NIT: 900.123.456-7
+Factura de venta No. FV-2041
+Fecha de emisión: 15/09/2026
+Subtotal: 1.000.000
+IVA 19%: 190.000
+Total a pagar: 1.190.000
